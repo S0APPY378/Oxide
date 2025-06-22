@@ -1,4 +1,4 @@
-
+getgenv().real = true
 local candoperma  = false 
 pcall(function()
 replicatesignal(game:GetService("Players").LocalPlayer.Kill)
